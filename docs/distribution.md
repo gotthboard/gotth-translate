@@ -19,7 +19,9 @@ endpoints.
 
 Current status: planned and unreleased.
 
-## Licensing gate
+## License
 
-No license file is present. No license has been inferred or selected. Release
-publication remains blocked until the maintainer makes that decision.
+The maintainer selected the MIT license for the owner-authored contents of
+this repository. The standard grant is in `LICENSE`; third-party dependencies
+and assets retain their own licenses. This decision does not publish a release
+or create a support or compatibility promise.
